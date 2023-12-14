@@ -1,0 +1,2 @@
+class SenhaConsultaNormalController < ApplicationController
+end
